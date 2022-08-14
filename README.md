@@ -15,5 +15,18 @@
 </p>
 
 <h3 align="left">Languages</h3>
-<p align="left"> <a href="https://aws.amazon.com/es/" target="_blank"> <img src="https://aws.amazon.com/es/" alt="aws" width="40" height="40"/> </a>
+<p align="left"> <a href="https://aws.amazon.com/es/" target="_blank"> <img src="" alt="aws" width="40" height="40"/> </a>
+
+
+
+
+
+
+
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
