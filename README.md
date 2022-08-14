@@ -15,5 +15,5 @@
 </p>
 
 <h3 align="left">Languages</h3>
-<p align="left"> <a href="https://aws.amazon.com/es/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<p align="left"> <a href="https://aws.amazon.com/es/" target="_blank"> <img src="https://aws.amazon.com/es/" alt="aws" width="40" height="40"/> </a>
 
