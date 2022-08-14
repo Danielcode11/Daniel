@@ -14,5 +14,6 @@
 <a href="https://www.linkedin.com/in/daniel-alfredo-serrato-r%C3%ADos-4a8607233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="danielAlfredoSerrato" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages</h3>
+<p align="left"> <a href="https://aws.amazon.com/es/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 
