@@ -45,6 +45,7 @@
   <img align="center" alt="Daniel-NPM" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="Daniel-Babel" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
   <img align="center" alt="Daniel-Aws" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="center" alt="Daniel-Babel" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
 
   
 
