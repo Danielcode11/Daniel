@@ -35,7 +35,7 @@
   <img align="center" alt="Daniel-Postgresql" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="Daniel-Node.js" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
-<h3 align="left">Languages</h3>
+<h3 align="left">Tools</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Figma" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Daniel-Visualstudio" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
