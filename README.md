@@ -3,7 +3,7 @@
 
 
 - 🚀 I’m currently Studying Software Engineering on [POLI-politecnico GranColombiano](https://www.poli.edu.co)
-- 💻 I’m currently learning **NodeJS, **
+- 💻 I’m currently learning **NodeJS, Mysql and Postgresql**
 - 📌 All of my projects are available at [danielserrato.co](danielserrato.co)
 - 👨‍💻 Software Development
 - ⚡ Empathetic, analytical, collaborative and self-taught.
