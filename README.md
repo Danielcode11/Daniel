@@ -47,10 +47,10 @@
   <img align="center" alt="Daniel-Aws" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="Daniel-Babel" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
   
-  
-  <div align="center">
+  <h3 align="left">GitHub Stats</h3>
+  <div align="left">
   <a href="https://github.com/Danielcode11/Danielcode11/edit/master/README.md">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielcode11&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
 </div>
   
   
