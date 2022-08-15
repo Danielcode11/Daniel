@@ -18,35 +18,40 @@
 
 <h3 align="left">Languages</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Daniel-HTML" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="Daniel-CSS" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="Daniel-Js" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Daniel-Bootstrap" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img align="center" alt="Daniel-SASS" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
-  <img align="center" alt="Daniel-React" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Daniel-Python" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Daniel-Java" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Daniel-HTML" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" alt="Daniel-CSS" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img align="center" alt="Daniel-Js" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Daniel-Bootstrap" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img align="center" alt="Daniel-SASS" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
+  <img align="center" alt="Daniel-React" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Daniel-Python" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Daniel-Java" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   
-  
-</div>}
-<h3 align="left">Data Bases</h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Daniel-HTML" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="Daniel-CSS" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="Daniel-Js" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Daniel-React" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Daniel-Python" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Daniel-Java" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Daniel-SASS" height="50" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   
 </div>
+<h3 align="left">Data Bases</h3>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Daniel-Mysql" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Daniel-Postgresql" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" alt="Daniel-Node.js" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+</div>
+<h3 align="left">Languages</h3>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Daniel-Figma" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Daniel-Visualstudio" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="Daniel-Git" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Daniel-Heroku" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+  <img align="center" alt="Daniel-Webpack" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" /> 
+  <img align="center" alt="Daniel-NPM" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="Daniel-Babel" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
+  <img align="center" alt="Daniel-Aws" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
   
 
 
 
 
-<a href="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"><img src="https://camo.githubusercontent.com/42ada9cc774b9d2b4cf35691820a881d70657ae42c3a074f00c7e9add6352361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" target="_blank"></a> 
+
 
 
 
