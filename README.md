@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Serrato</h1>
-<h3 align="center">Frontend Developer from Colombia</h3>
+<h3 align="center">Full Stack Developer from Colombia</h3>
 
 
 - 🚀 I’m currently Studying Software Engineering on [POLI-politecnico GranColombiano](https://www.poli.edu.co)
